@@ -1,2 +1,4 @@
 # Redacted-Public-Release-PDMP-v2.0.0-Build-2-Apr-2010
 Repository containing the CIF submission for State Prescription Drug Monitoring Program (PDMP) v2.0.0 Build 2 rec Apr 2020.
+
+The project focuses on the VA participation in the National Network of Sate-Based Prescription Drug-Monitoring Programs (PDMP), which requires the VA to enter into an agreement with a national network of prescription drug-monitoring programs or any state or regional prescription drug-monitoring program to allow licensed VA health care providers to query controlled substance prescriptions written in participating states or regions. 
